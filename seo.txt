@@ -1,0 +1,30 @@
+Ques 1. What is SEO and explain the importance of SEO.
+
+Ans 1. SEO - SEO, or Search engine optimization, is a set of strategies and techniques used to make a website more visible and rank higher in search engine results. The goal is to attract more visitors by optimizing the content and structure of the site, improving its chances of being found by people searching for relevant information or products online.
+
+Importance of SEO :
+(1.) Visibility - SEO improves your websites visibility on search engines, making it more likely to be found by people looking for relevant information or products
+
+(2.) User experience - SEO involves improving your sites structure and content, enhancing the overall user experience and satisfaction
+
+(3.) Global reach - SEO enables your website to reach a wider audience, not limited by geographical boundaries.
+
+(4.) Cost effectiveness - Compared to paid advertising seo provides a cost effectiveness way to drive long term traffic to your site
+
+Ques 3. What are the benefits of using meta tags?
+
+Ans 3. Some are the benefits of using meta tags:
+(1.) Search engine optimization(SEO) - Meta tags help search engines understand the content and purpose of your page, improving its chances of being found in search results
+
+(2.) Page description - They allow you to provide a brief and accurate description of your page, helping users understand what to expect before clicking 
+
+(3.) Social character set - Certain meta tags like open graph tags, control how your content appears when shared on social media, making it more visually appearing and informative
+
+(4.)Setting character set - Meta tags specify the character set your page users, ensuring proper text display and language interpretation
+
+(5.) Viewport configuration - Meta tags like viewport settings enhance the display of your webpage on various devices , improving the overall user experience
+
+Ques 5. Define favicon and give an illustrative example.
+
+Ans 5. Favicon - A favicon is a small icon associated with a website, typically displayed in the browsers address bar or tabs. It helps users easily identify and locate a site among their open tabs or bookmarks.
+Example - When you visit a website, the tiny icon next to the websites name in the browser tab is its favicon. For instance the small blue "f" for facebook or the multi colored "G" for google are favicons. They serve as visual markers for different websites
